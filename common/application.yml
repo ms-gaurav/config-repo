@@ -2,7 +2,12 @@ organization:
   name: "banking application"
 build:
   version: "2.0"
-
+spring:
+  rabbitmq:
+    host: "localhost"
+    port: 5672
+    username: "guest"
+    password: "guest"
 accounts:
   message: "Hey, welcome to EazyBank Common configuration"
   contactDetails:
