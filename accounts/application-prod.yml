@@ -5,4 +5,4 @@ accounts:
   message: "Hey, welcome to bank accounts related prod webhook APIs"
   contactDetails:
     name: "Test User - Product Owner"
-    email: "{cipher}a4a54fd0b3478eb60287913f383dc4b264f4589f6a2a18f2defe012bc38337180ef03891b2b4f51517358a33b84f1bcb"
+    email: "{cipher}2f471abbcfdc711e6b4bb1ccecce17d37d4d31ed0782cf4f019f878513b653fba87b00377c12883fc30ebe60f1e51bb1"
