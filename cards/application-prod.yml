@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to Bank cards related prod APIs"
+  message: "Hey, welcome to Bank cards related production APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}835bc2f1b4a022707850bcd15bf039c7c14568318e02b834be151645187282e4"
